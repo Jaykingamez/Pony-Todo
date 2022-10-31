@@ -1,6 +1,6 @@
 # Pony-Todo README
 
-Dear Princess Celestia, as Princess Twilight Sparkle of DevSecOps, I would I would like to ensure that developers are able to develop features quickly, while being prevented from introducing common vulnerabilities into the application, such as those listed in OWASP Top 10. The solution should secure a common web framework (e.g. Django, Express.js, Spring), to prevent developers from introducing specific classes of vulnerabilities (e.g. XSS, SQLi, command injection, IDOR). 
+Dear **Princess Celestia**, as **Princess Twilight Sparkle of DevSecOps**, I would I would like to ensure that developers are able to develop features quickly, while being prevented from introducing common vulnerabilities into the application, such as those listed in OWASP Top 10. The solution should secure a common web framework (e.g. Django, Express.js, Spring), to prevent developers from introducing specific classes of vulnerabilities (e.g. XSS, SQLi, command injection, IDOR). 
 
 Such a product is needed to be a simple solution to GovTech hackathon, STACK the codes, how should I go about doing it?
 
@@ -10,7 +10,7 @@ She wrote, and sent a message back using magic.
 
 Dear Princess Twilight Sparkle, isn't it obvious? Choose the simplest colution.
 
-"Simplest?" Twilight Sparkle wondered to herself as she thought over Celestia's words.
+**"Simplest?"** Twilight Sparkle wondered to herself as she thought over Celestia's words.
 
 Being a DevSecOps princess, she was busy with numerous other things. It was likely she would forgot or lose sight of her task. 
 
