@@ -5,7 +5,7 @@
 ---
 Dear **Princess Celestia**, as **Princess Twilight Sparkle of DevSecOps**, I would I would like to ensure that developers are able to develop features quickly, while being prevented from introducing common vulnerabilities into the application, such as those listed in OWASP Top 10. The solution should secure a common web framework (e.g. Django, Express.js, Spring), to prevent developers from introducing specific classes of vulnerabilities (e.g. XSS, SQLi, command injection, IDOR). 
 
-Such a product is needed to be a simple solution to GovTech hackathon, STACK the codes, how should I go about doing it?
+Such a product is needed to be a simple solution to GovTech hackathon, [STACK the Codes](https://jts.tech.gov.sg/2022/stack-the-codes), how should I go about doing it?
 
 ---
 
