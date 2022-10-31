@@ -1,5 +1,7 @@
 # Pony-Todo README
 
+![](https://img.itch.zone/aW1nLzkzMTY2MzgucG5n/original/8SH81K.png)
+
 ### Letter to Princess Celestia
 
 ---
