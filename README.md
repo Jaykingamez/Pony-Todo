@@ -37,3 +37,9 @@ Dear Princess Twilight Sparkle, isn't it obvious? Choose the simplest colution.
 
 A sidebar with helpful links ot useful OWASP documentation. It contains a list of common vulnerabilities and ways to secure them. The documentation produces useful examples that can be used in any web framework.
  
+## Usage
+
+This is a Visual Studio Extension called PonyTodo, by searching it in Visual Studio Code one can find it and install it.
+
+Once it is installed, click the icon ![image](https://user-images.githubusercontent.com/39272482/199166451-7a7cfed2-7662-4120-9289-0fba89fca2d0.png) to open the sidebar where one can access the various features
+
